@@ -2,54 +2,52 @@
 
 Hi there! 👋 I'm Shanoya Henry, a motivated Computer Science student with a strong interest in data science. Currently seeking internship opportunities to apply my academic knowledge and gain hands-on experience in areas such as user experience, analytics, and project management.
 
-## About Me
+## 🌈 About Me
 
-- 🌐 Located in Buffalo, NY
-- 📧 Email: shanoya.e.henry@gmail.com
-- 📞 Phone: (347)-567-6489
+- 🏙️ Proudly based in Buffalo, NY
+- 📧 Reach me at: shanoya.e.henry@gmail.com
+- 📞 Let's chat: (347)-567-6489
 
-## Education
+## 🎓 Education
 
-**BS in Computer Science**
-University at Buffalo (SUNY), Buffalo, NY  
-*Expected Graduation:* Spring 2025  
-*Relevant Coursework:* Intro to CS I & II, Computer Organization, System Programming, Data Structures
+**BS in Computer Science**  
+*University at Buffalo (SUNY), Buffalo, NY*  
+*Class of Spring 2025*  
+*Courses in Magic: Intro to CS Spells, System Sorcery, and Enchanted Data Structures*
 
-## Skills & Tools
+## ✨ Skills & Tools
 
-- **Programming Languages:** Python, Scala, C, JavaScript
-- **Web Development:** HTML, JavaScript
-- **Tools:** Visual Studio, IntelliJ, Microsoft Office, G-Suite
+- **Wizardry Languages:** Python, Scala, C, JavaScript
+- **Enchanted Development:** HTML, JavaScript
+- **Sorcerer's Tools:** Visual Studio, IntelliJ, Microsoft Office, G-Suite
 
-## Computer Science Projects
+## 🧙‍♀️ Code Quests
 
-### COVID-19 Vaccine Data Analysis
+### 🌐 COVID-19 Potion Alchemy
 
-- Utilized Python for cleaning, analyzing, and visualizing COVID vaccine data across states.
-- Developed a web interface using HTML and JavaScript to display interactive visualizations of the analyzed data.
-- Implemented data visualization techniques to represent trends and patterns in vaccination rates.
+- Brewed Python potions to cleanse, analyze, and visualize COVID vaccine data across states.
+- Crafted a magical web interface using HTML and JavaScript to showcase interactive spellcasting visualizations.
 
-### Self-Checkout Kiosk Software
+### 🛒 Self-Checkout Enchantment
 
-- Developed self-checkout kiosk software using Object-Oriented Programming in Intro to CS II.
-- Enabled users to input numeric barcodes and computed final prices with considerations like sales tax, discounts, and bottle deposits, all without the use of conditionals.
+- Wove spells with Object-Oriented Programming to create self-checkout kiosk software.
+- Users can input numeric barcodes, and the software computes final prices with magical considerations like sales tax, discounts, and bottle deposits.
 
-### Hamming Code Encoder/Decoder
+### 📡 Hamming Code Sorcery
 
-- Implemented encoding and decoding functionalities for 11-bit messages based on user prompts.
-- Developed in MIPS assembly language as part of a computer organization project.
+- Cast spells in MIPS assembly to implement Hamming Code, encoding and decoding 11-bit messages based on user wizardry.
 
-## Work Experience
+## 🌟 Work Chronicles
 
-### Retail Sales Associate, OfficeMax, Buffalo, NY (August 2023 - Current)
+### 🌈 Retail Wizard at OfficeMax (August 2023 - Present)
 
-- Provided excellent customer service, assisting with product inquiries and purchases.
-- Maintained store appearance by organizing and restocking merchandise.
-- Operated the cash register, ensuring accurate and efficient transactions.
+- Mastered the art of customer enchantment, helping with product quests and purchases.
+- Kept the store enchanting by organizing and restocking merchandise.
+- Handled cash transactions like a true wizard, with precision and efficiency.
 
-### Stocking and Unloading Associate, Walmart, Suffern, NY (May 2022 - June 2023)
+### 🧙‍♂️ Stocking Sorcerer at Walmart (May 2022 - June 2023)
 
-- Provided customer service and demonstrated strong attention to detail in organizing merchandise.
-- Managed inventory and efficiently stocked shelves.
+- Provided customer enchantment with meticulous merchandise organization.
+- Wielded organizational magic to manage inventory and keep shelves bewitchingly stocked.
 
-Feel free to explore my repositories and connect with me! 😊
+Feel free to join me on this magical coding journey! ✨
