@@ -5,12 +5,12 @@ Hi there! 👋 I'm Shanoya Henry, a motivated Computer Science student with a st
 ## 🔧 Technologies & Tools
 
 - Programming Languages: Python, C, Scala, JavaScript
-- Tools: Git, VSCode, Jupyter Notebook
+- Tools: Git, VSCode, 
 - Skills: Data Analysis, Software Development, Object-Oriented Programming
 
 ## 🌱 Currently Learning
 
-I'm currently exploring machine learning and deepening my knowledge in data structures and algorithms.
+I'm currently exploring machine learning and how to analyze data using R by using rstudio.
 
 ## 🚀 Projects
 
