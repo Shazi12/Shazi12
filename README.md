@@ -22,7 +22,7 @@ I'm currently exploring machine learning and how to analyze data using R by usin
 - MIPS assembly project in Computer Organization.
 - Implemented encoding and decoding functionalities for 11-bit messages.
 
-### [COVID-19 Vaccine Data Analysis](#)
+### [COVID-19 Vaccine Data Analysis](https://github.com/Shazi12/Covid_Vaccine_USA.git)
 - Analyzed and visualized COVID vaccine data using Python and HTML.
 - Developed a web interface to display interactive visualizations.
 
