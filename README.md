@@ -14,7 +14,7 @@ I'm currently exploring machine learning and how to analyze data using R by usin
 
 ## 🚀 Projects
 
-### [Self Checkout Kiosk Software](#)
+### [Self Checkout Kiosk Software](https://github.com/Shazi12/Self_Checkout.git)
 - Developed software for a self-checkout kiosk using Object-Oriented Programming in Intro to CS II.
 - Implemented without conditionals, allowing users to input barcodes and compute final prices.
 
