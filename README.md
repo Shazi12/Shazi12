@@ -18,7 +18,7 @@ I'm currently exploring machine learning and how to analyze data using R by usin
 - Developed software for a self-checkout kiosk using Object-Oriented Programming in Intro to CS II.
 - Implemented without conditionals, allowing users to input barcodes and compute final prices.
 
-### [Hamming Code Encoder/Decoder](#)
+### [Hamming Code Encoder/Decoder](https://github.com/Shazi12/Hamming-Code-decoder-Encode.git)
 - MIPS assembly project in Computer Organization.
 - Implemented encoding and decoding functionalities for 11-bit messages.
 
